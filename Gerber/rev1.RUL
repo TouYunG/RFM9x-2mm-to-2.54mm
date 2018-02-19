@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\_PRJs\_025\003_RFM95-DIP900mil [Altium]\rev1\rev1.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=32.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=32.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
