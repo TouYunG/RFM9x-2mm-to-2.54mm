@@ -6,5 +6,6 @@
 <img src="https://github.com/TouYunG/RFM9x-2mm-to-2.54mm/blob/master/preview/PCB.png" width=350>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/TouYunG/RFM9x-2mm-to-2.54mm/blob/master/preview/002.jpg" width=350>
 
+<font size=1><a href="https://github.com/TouYunG/RFM9x-2mm-to-2.54mm/blob/master/Gerber.zip?raw=true">download Gerber files</a></font>
 <hr>
 <pre>ปล. แอบใส่ชื่อไว้ในเลเยอร์ Mech4 (ใต้ชิป) ลบได้-เปลี่ยนได้ครับ</pre>
