@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: rev3.GBR   20/2/2018  9:13:06
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GM1                Mechanical 1                            
+.GM2                Mechanical 2                            
+.GM4                Mechanical 4                            
+.GM16               Mechanical 16                           
+.GM27               Mechanical 27                           
+------------------------------------------------------------------------------------------

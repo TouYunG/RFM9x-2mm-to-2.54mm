@@ -1,0 +1,183 @@
+*************************************************************
+FileName = rev3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : rev3.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : rev3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : rev3.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : rev3.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : rev3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : rev3.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : rev3.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : rev3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : rev3.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : rev3.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : rev3.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D16
+    D18
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : rev3.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D14
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 27
+      File : rev3.GM27
+
+    Adding Layer      : Mechanical 27
+
+
+Used DCodes :
+*************************************************************
+
